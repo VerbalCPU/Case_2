@@ -1,0 +1,63 @@
+Most common session for cluster 0
+[('Logoff Netbanken', 166096),
+ ('Danske Bank | En bank som gÃ¶r mer fÃ¶r dig som vill mer', 115325),
+ ('Danske Bank | En bank som gÃ¶r mer fÃ¶r dig som vill mer<>Kundservice | '
+  'Danske Bank',
+  115200),
+ ('Asiakaspalvelu - Danske Bank', 95851),
+ ('Danske Bank | En bank som gÃ¶r mer fÃ¶r dig som vill mer<>Kundservice | '
+  'Danske Bank<>Du Ã¤r nu utloggad - Danske Bank',
+  84395),
+ ('Logoff eBanking', 37771),
+ ('Du Ã¤r nu utloggad - Danske Bank', 34840),
+ ('Personal Banking | Ways to Bank | Danske Bank', 32886),
+ ('FÃ¶retag Â\x96 Danske Bank<>Kundservice | Danske Bank', 29921),
+ ('Kundeservice Bedrift - Danske Bank', 29413)]
+====================================================
+Most common session for cluster 1
+[('Privat - Danske Bank', 303106),
+ ('Uloskirjautumissivu', 126899),
+ ('Sinulle Â\x96 Danske Bank<>Asiakaspalvelu - Danske '
+  'Bank<>Uloskirjautumissivu',
+  125088),
+ ('Privat - Danske Bank<>Kundeservice Privat - Danske Bank<>Logoff Nettbanken',
+  78033),
+ ('Sinulle - Danske Bank', 70584),
+ ('Sinulle - Danske Bank<>Asiakaspalvelu - Danske Bank<>Uloskirjautumissivu',
+  68530),
+ ('Sinulle Â\x96 Danske Bank<>Asiakaspalvelu - Danske Bank', 58941),
+ ('Privat - Danske Bank<>Kundeservice Privat - Danske Bank', 56734),
+ ('Verkkopankki - Danske Bank<>Asiakaspalvelu - Danske '
+  'Bank<>Uloskirjautumissivu',
+  55483),
+ ('Kundservice | Danske Bank', 33428)]
+====================================================
+Most common session for cluster 2
+[('HjÃ¦lp', 246043),
+ ('HjÃ¦lp<>Logoff Netbanken', 119846),
+ ('Asiakaspalvelu - Danske Bank<>Uloskirjautumissivu', 106737),
+ ('Netbank', 48007),
+ ('Logoff Netbanken<>HjÃ¦lp<>Logoff Netbanken', 47900),
+ ('Logon<>HjÃ¦lp<>Logoff Netbanken', 41784),
+ ('Netbank<>HjÃ¦lp<>Logoff Netbanken', 38753),
+ ('Netbank<>HjÃ¦lp', 32466),
+ ('Logon<>HjÃ¦lp', 32253),
+ ('Logon Fallback<>HjÃ¦lp', 19080)]
+====================================================
+Most common session for cluster 3
+[('Privat - Danske Bank<>HjÃ¦lp<>Logoff Netbanken', 489590),
+ ('Privat - Danske Bank<>HjÃ¦lp', 400219),
+ ('Erhverv - Danske Bank<>HjÃ¦lp', 74906),
+ ('Privat - Danske Bank<>Logon<>HjÃ¦lp', 38146),
+ ('Privat - Danske Bank<>Logon<>HjÃ¦lp<>Logoff Netbanken', 21437),
+ ('Personal Customer | Personal Banking | Danske Bank<>Help | Personal Banking '
+  '| Danske Bank<>Logoff eBanking | Personal Banking | Danske Bank',
+  18866),
+ ('Privat - Danske Bank<>HjÃ¦lp<>Logoff Netbanken<>HjÃ¦lp<>Logoff Netbanken',
+  18471),
+ ('Privat - Danske Bank<>HjÃ¦lp<>Privat - Danske Bank<>HjÃ¦lp', 11537),
+ ('Personal Customer | Personal Banking | Danske Bank<>Help | Personal Banking '
+  '| Danske Bank',
+  11442),
+ ('Erhverv - Danske Bank<>HjÃ¦lp<>Logoff Netbanken', 9904)]
+====================================================
